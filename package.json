@@ -5,10 +5,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "vite build && gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "lucide-react": "^0.287.0",
+    "lucide-react": "^0.510.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
